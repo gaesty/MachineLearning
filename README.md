@@ -48,7 +48,7 @@ Graphs
 Hash Tables
 1. <s>Valid Anagram (Easy) - Problem #242</s>
 2. Group Anagrams (Medium) - Problem #49
-3. Top K Frequent Elements (Medium) - Problem #347
+3. <s>Top K Frequent Elements (Medium) - Problem #347</s>
 4. Longest Consecutive Sequence (Hard) - Problem #128
 5. Subarray Sum Equals K (Medium) - Problem #560
 
