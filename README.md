@@ -6,6 +6,10 @@
 - Librairies Python :
   - Pandas
   - Jupyter Notebook
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
 
 `pip install -r requirements.txt`
 
