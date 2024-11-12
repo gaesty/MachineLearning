@@ -4,7 +4,6 @@
 
 - Python
 - Librairies Python :
-  - Pandas
   - Jupyter Notebook
   - pandas
   - numpy
