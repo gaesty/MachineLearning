@@ -19,4 +19,5 @@
 
 - Initiation à la regression linéaire simple
   - [code jupyter](initiationLinearRegression.ipynb)
-  ![graphique de prédiction](prediction.png)
+
+    ![graphique de prédiction](prediction.png)
