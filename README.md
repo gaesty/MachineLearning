@@ -9,6 +9,7 @@
   - numpy
   - scikit-learn
   - matplotlib
+  - seaborn
 
 `pip install -r requirements.txt`
 
